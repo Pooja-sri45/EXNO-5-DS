@@ -44,6 +44,7 @@ plt.show()
 
 <img width="1525" height="735" alt="image" src="https://github.com/user-attachments/assets/92bdb701-2aab-4593-996b-a8b039b74ef6" />
 
+
 ```
  x=[10,20,30,40,50]
  y=[100,200,300,400,500]
@@ -62,6 +63,7 @@ plt.show()
 
 <img width="1371" height="735" alt="image" src="https://github.com/user-attachments/assets/848e7cb7-cec7-40a8-bece-816ae0644398" />
 
+
 ```
  act=['eat','sleep','work','play']
  slices=[3,7,8,6]
@@ -79,6 +81,7 @@ plt.show()
 
 <img width="1057" height="691" alt="image" src="https://github.com/user-attachments/assets/9128c996-76bc-466e-8f6c-724ba5153f73" />
 
+
 ```
  x = [1, 2, 3, 4, 5]
  y1 = [10, 12, 14, 16, 18]
@@ -94,6 +97,7 @@ plt.show()
 
 <img width="982" height="356" alt="image" src="https://github.com/user-attachments/assets/9aa440ba-4574-48e3-ba09-a7813b439a15" />
 
+
 ```
  height = [10, 24, 36, 40, 5]
  names = ['one', 'two', 'three', 'four', 'five']
@@ -108,6 +112,7 @@ plt.show()
 
 <img width="857" height="397" alt="image" src="https://github.com/user-attachments/assets/07c5538c-6c1e-4c18-ad9a-7dbdf7df4588" />
 
+
 ```
  x = [2,1,6,4,2,4,8,9,4,2,4,10,6,4,5,7,7,3,2,7,5,3,5,9,2,1]
  plt.hist(x, bins = 10, color='blue', alpha=0.5)
@@ -116,6 +121,7 @@ plt.show()
 
 <img width="927" height="357" alt="image" src="https://github.com/user-attachments/assets/6577757c-0f72-4ea4-9034-15891ad2d2b6" />
 
+
 ```
  np.random.seed(0)
  data=np.random.normal(loc=0, scale=1, size=100)
@@ -123,6 +129,7 @@ plt.show()
 ```
 
 <img width="772" height="346" alt="image" src="https://github.com/user-attachments/assets/34ae6063-b6fb-46f2-af8e-23d4dbace5cd" />
+
 
 ```
 fig, ax= plt.subplots()
